@@ -1,0 +1,21 @@
+warningMessage: "⚠️ Advertencia: Te quedan {chances} oportunidades."
+banMessage: "⛔ Has sido baneado por lenguaje ofensivo. Duración: {banTime}"
+banTime: "1d ip"
+maxChances: 3
+prohibitedMessages:
+  - "puta"
+  - "mierda"
+  - "hija de"
+  - "coño"
+  - "put@" 
+  - "p - u - t - a"
+  - "PnUnTnA"
+minorWords:
+  - "ez"
+  - "remalo"
+  - "malisimo"
+minorWarningMessage: "Este servidor no permite toxicidad ✋"
+spam:
+  enabled: true
+  spamBanTime: "1h"
+  spamWarningMessage: "⚠️ Estás enviando spam. Detente."
